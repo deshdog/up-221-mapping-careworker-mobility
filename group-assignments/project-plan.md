@@ -23,29 +23,36 @@ To better understand what mobility looks like for care takers in LA, we can star
 
 Most importantly, we’ll need to map the proximity of each element in relation to another and in relation to transit stations and routes, bike lanes, sidewalks, and pacifying roads.
 
-### Mapping Elements
+### Scope of Visualization
 ```diff
 Which elements do we want to map in this project?
 ```
 #### Category I. Care Destination Data
 * <a href="https://geohub.lacity.org/datasets/lacounty::community-services/about">Community Centers</a>: Locations of community services in LA County, requiring some cleaning and filtering based on what our team decides counts as a 'Community Center.'
-* Health Care Facilities 
+* Health Care Facilities, OB Service Centers
 * Child, Elderly, and Disabled Care Facilities
 * Professional Development Programs
 * Alternative marketplaces
 * Public Spaces
 * Colleges and Universities
+* DPSS Centers
+* Libraries
+* Banks
+* Farmers markets
 
 #### Category II. Care Transportation Infrastructure Data
 * <a href="https://geohub.lacity.org/datasets/ladot::city-of-los-angeles-bikeways-1/about">Bicycle Lanes </a>: LA's network of on-street and off-street bikeways; includes four categories of bike paths.
-* Safe walking routes/sidewalks
-* Public transit stops + routes
+* Bike racks
+* Handicap Access ramps
+* Crosswalks
+* Street lights
+* Tree inventory
+* Bus shelters
+* Transit stops + routes
 
 #### Category III. Social Demographic Data
 * Income, Percentage of population living under local poverty line
 * Race, Class, Nationality
 
-### Timeline
-```diff
-Which datasets do we want to have cleaned and mapped by the midterm? Which datasets are high-priority, given LA's data limiations?
-```
+### Expected Insights
+Our goal is to assess the overlap of mobility of care destinations with supportive transportation infrastructure. We hope to better understand what the current status of mobility is for informal care workers an begin to identify the next steps necessary in building out inclusive and asseccible infrastructure for them going forward.
