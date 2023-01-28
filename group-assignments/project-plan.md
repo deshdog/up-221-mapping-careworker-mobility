@@ -30,26 +30,26 @@ We will conclude with a final map of where we recommend prioritizing resources t
 #### Category I. Care Destination Data
 * <a href="https://geohub.lacity.org/datasets/lacounty::community-services/about">Community Centers</a>: Locations of community services in LA County, requiring some cleaning and filtering based on what our team decides counts as a 'Community Center.'
 * Health Care Facilities, OB Service Centers
-* Child, Elderly, and Disabled Care Facilities
+* [Child](https://geohub.lacity.org/datasets/012f6981e8054e75934ed5b54b632244/about), Elderly, and Disabled Care Facilities
 * Professional Development Programs
 * Alternative marketplaces
 * Public Spaces
-* Colleges and Universities
+* [Farmers markets](https://geohub.lacity.org/datasets/lahub::farmers-markets-in-los-angeles/explore?location=34.760555%2C-117.203311%2C9.50) and [grocery stores](https://data.lacity.org/Administration-Finance/Grocery-Stores/g986-7yf9)
+* [Colleges and Universities](https://geohub.lacity.org/datasets/lacounty::colleges-and-universities/explore?location=33.794222%2C-118.295000%2C9.00)
 * DPSS Centers
-* Libraries
+* [Libraries](https://geohub.lacity.org/datasets/lahub::farmers-markets-in-los-angeles/explore?location=34.760555%2C-117.203311%2C9.50)
 * Banks
-* Farmers markets
 
 #### Category II. Care Transportation Infrastructure Data
 * <a href="https://geohub.lacity.org/datasets/ladot::city-of-los-angeles-bikeways-1/about">Bicycle Lanes </a>: LA's network of on-street and off-street bikeways; includes four categories of bike paths.
 * Bike racks
-* Handicap Access (curb) ramps
-* Crosswalks
-* Street lights
-* Tree inventory (adds comfort to walking and biking trips)
-* Bus shelters
-* Transit stops + routes
-* Paratransit routes
+* [Handicap Access (curb) ramps](https://geohub.lacity.org/datasets/access-ramps/explore?location=33.881476%2C-118.302421%2C11.18)
+* [Crosswalks](https://geohub.lacity.org/datasets/crosswalks/explore?location=34.009245%2C-118.406230%2C9.00)
+* [Street lights](https://geohub.lacity.org/datasets/street-lights/explore?location=34.073719%2C-118.421066%2C10.37)
+* [Tree inventory](https://losangelesca.treekeepersoftware.com/index.cfm?deviceWidth=1536) (adds comfort to walking and biking trips)
+* [Bus shelters](https://geohub.lacity.org/datasets/lahub::city-furniture/explore?location=34.019280%2C-118.376623%2C11.81)
+* Transit stops + routes ([LA Metro bus/rail/bike share](https://developer.metro.net/gis-data/), [LA DASH buses](https://geohub.lacity.org/datasets/lahub::community-dash-routes/explore?location=34.022069%2C-118.505558%2C11.12))
+* [Paratransit routes](https://pw.lacounty.gov/transit/DAR.aspx)
 
 #### Category III. Social Demographic Data
 * Income, Percentage of population living under local poverty line
