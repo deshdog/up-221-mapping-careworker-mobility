@@ -1,7 +1,7 @@
 ## Project Plan: Mapping Mobility for LA Careworkers
 
 ### The Problem
-Care work is the informal and often unpaid labor involved in caretaking; the burden of care work disproportionately affects women. In Los Angeles, it impacts women of color especially. The burdens of care work include but are not limited to a lack of financial, social, and physical mobility. This project focuses on solving physical immobility for care workers in Los Angeles by mapping existing city care blocks.
+Care work is the informal and often unpaid labor involved in caretaking; the burden of care work disproportionately affects women. In Los Angeles, it impacts women of color especially. The burdens of care work include but are not limited to a lack of financial, social, and physical mobility. This project focuses on analyzing the extent of physical immobility among care workers in Los Angeles by mapping existing city care blocks.
 
 ### Research Question
 *How might we improve mobility for informal care workers in Los Angeles?*
