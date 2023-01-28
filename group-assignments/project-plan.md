@@ -1,4 +1,7 @@
 ## Project Plan: Mapping Mobility for LA Careworkers
+Maya Deshpande, Elizabeth Greenfield, Sophie Frank, Adam Lipsey
+
+*link: https://github.com/deshdog/up-221-mapping-careworker-mobility/edit/main/group-assignments/project-plan.md*
 
 ### The Problem
 Care work is the informal and often unpaid labor involved in caretaking; the burden of care work disproportionately affects women. In Los Angeles, it impacts women of color especially. The burdens of care work include but are not limited to a lack of financial, social, and physical mobility. This project focuses on analyzing the extent of physical immobility among care workers in Los Angeles by mapping existing city care blocks.
