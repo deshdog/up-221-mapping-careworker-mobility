@@ -1,7 +1,7 @@
 ## Project Plan: Mapping Mobility for LA Careworkers
 
 ### The Problem
-Care work is the informal and often unpaid labor involved in caretaking; the burden of care work disproportionately affects women. In Los Angeles, it impacts women of color especially. The burdens of care work include but are not limited to a lack financial, social, and physical mobility. This project focuses on solving physical immobility for care workers in Los Angeles by mapping existing city care blocks.
+Care work is the informal and often unpaid labor involved in caretaking; the burden of care work disproportionately affects women. In Los Angeles, it impacts women of color especially. The burdens of care work include but are not limited to a lack of financial, social, and physical mobility. This project focuses on solving physical immobility for care workers in Los Angeles by mapping existing city care blocks.
 
 ### Research Question
 *How might we improve mobility for informal care workers in Los Angeles?*
@@ -10,7 +10,7 @@ Care work is the informal and often unpaid labor involved in caretaking; the bur
 Los Angeles’ urban sprawl is a key factor in the lack of mobility for care workers. The <a href="https://www.brookings.edu/wp-content/uploads/2021/12/City-playbook_Bogota.pdf">City of Bogotá</a> has designed a solution using urban planning wherein city planners work to provide each neighborhood with a care block: areas where both caregivers and those they care for can access city services such as professional and skills training, wellness promotion, income-generation, professional child/elder care, and recreational activities, all within a 15-20 min walking radius. We can improve mobility for informal care workers in LA by helping to develop such city blocks.
 
 ### Why This Matters
-Conerns of service and transportation accessability for informal care workers reflect a greater structural dilemma within urban planning in LA and beyond; we're realizing now that our collective understanding of mobility is dominated by the needs of formal laborers, mainly men. This patriarchal norm has resulted in the *immobility* of those for which our city systems were not initially designed for. It's important to study just how problems of immobility root themselves in our city's infrastructure and identify strategies that help us create a more equitable transportation landscape.
+Corners of service and transportation accessibility for informal care workers reflect a greater structural dilemma within urban planning in LA and beyond. Our collective understanding of mobility is dominated by the needs of formal laborers, mainly men. This patriarchal norm has resulted in the *immobility* of those for which our city systems were not initially designed for. It's important to study how immobility problems root themselves in our city's infrastructure and identify strategies that help us create a more equitable transportation landscape.
 
 ```diff
 Can someone figure out how to insert the image called bogota-care-block from 'images' folder here?
@@ -43,16 +43,17 @@ Which elements do we want to map in this project?
 #### Category II. Care Transportation Infrastructure Data
 * <a href="https://geohub.lacity.org/datasets/ladot::city-of-los-angeles-bikeways-1/about">Bicycle Lanes </a>: LA's network of on-street and off-street bikeways; includes four categories of bike paths.
 * Bike racks
-* Handicap Access ramps
+* Handicap Access (curb) ramps
 * Crosswalks
 * Street lights
-* Tree inventory
+* Tree inventory (adds comfort to walking and biking trips)
 * Bus shelters
 * Transit stops + routes
+* Paratransit routes
 
 #### Category III. Social Demographic Data
 * Income, Percentage of population living under local poverty line
 * Race, Class, Nationality
 
 ### Expected Insights
-Our goal is to assess the overlap of mobility of care destinations with supportive transportation infrastructure. We hope to better understand what the current status of mobility is for informal care workers an begin to identify the next steps necessary in building out inclusive and asseccible infrastructure for them going forward.
+Our goal is to assess the overlap of mobility of care destinations with supportive transportation infrastructure. We hope to better understand what the current status of mobility is for informal care workers and identify next steps to build more inclusive and accessible infrastructure going forward.
