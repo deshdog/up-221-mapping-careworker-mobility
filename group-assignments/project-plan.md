@@ -25,6 +25,8 @@ Most importantly, we’ll need to map the proximity of each element in relation 
 ### Scope of Visualization
 Our final maps will be tied to the extent of readily-available data. Our data will include elements of the three categories outlined below: data surrounding where care workers *go*, the transportation infrastructure that allows for their mobility, and socio-economic demographics as a proxy to where care workers reside.
 
+We will conclude with a final map of where we recommend prioritizing resources to create the first comprehensive care blocks, based on already-existing infrastructure, services, and demand.
+
 #### Category I. Care Destination Data
 * <a href="https://geohub.lacity.org/datasets/lacounty::community-services/about">Community Centers</a>: Locations of community services in LA County, requiring some cleaning and filtering based on what our team decides counts as a 'Community Center.'
 * Health Care Facilities, OB Service Centers
