@@ -10,25 +10,21 @@ Care work is the informal and often unpaid labor involved in caretaking; the bur
 Los Angeles’ urban sprawl is a key factor in the lack of mobility for care workers. The <a href="https://www.brookings.edu/wp-content/uploads/2021/12/City-playbook_Bogota.pdf">City of Bogotá</a> has designed a solution using urban planning wherein city planners work to provide each neighborhood with a care block: areas where both caregivers and those they care for can access city services such as professional and skills training, wellness promotion, income-generation, professional child/elder care, and recreational activities, all within a 15-20 min walking radius. We can improve mobility for informal care workers in LA by helping to develop such city blocks.
 
 ### Why This Matters
-Corners of service and transportation accessibility for informal care workers reflect a greater structural dilemma within urban planning in LA and beyond. Our collective understanding of mobility is dominated by the needs of formal laborers, mainly men. This patriarchal norm has resulted in the *immobility* of those for which our city systems were not initially designed for. It's important to study how immobility problems root themselves in our city's infrastructure and identify strategies that help us create a more equitable transportation landscape.
+Informal care workers--folks that care for the very young, old, and disabled--have a unique and under-studied experience of city services and transportation infrastructure. Our collective understanding of mobility is dominated by the needs of formal laborers, mainly men. This patriarchal norm has resulted in the *immobility* of those for which our city systems were not initially designed for. It's important to study how immobility problems root themselves in our city's infrastructure and identify strategies that help us create a more equitable transportation landscape.
 
-![bogota-care-block](images/bogota-care-block.png)
+![bogota-care-block](/images/bogota-care-block.png)
 
-```diff
-Can someone figure out how to insert the image called bogota-care-block from 'images' folder here?
-```
 ### Spatial Scope
 City of Los Angeles
 
 ### Data
-To better understand what mobility looks like for care takers in LA, we can start by mapping which neighborhoods already have city blocks with care infrastructure. We’ll need LA-specific locational data for each element within the ideal care block: child/elderly/disabled care service centers, grocery stores, public spaces, schools, health care centers, designated areas for alternative economies, etc.
+To better understand what mobility looks like for caretakers in LA, we can start by mapping which neighborhoods already have city blocks with care infrastructure. We’ll need LA-specific locational data for each element within the ideal care block: child/elderly/disabled care service centers, grocery stores, public spaces, schools, health care centers, designated areas for alternative economies, etc.
 
 Most importantly, we’ll need to map the proximity of each element in relation to another and in relation to transit stations and routes, bike lanes, sidewalks, and pacifying roads.
 
 ### Scope of Visualization
-```diff
-Which elements do we want to map in this project?
-```
+Our final maps will be tied to the extent of readily-available data. Our data will include elements of the three categories outlined below: data surrounding where care workers *go*, the transportation infrastructure that allows for their mobility, and socio-economic demographics as a proxy to where care workers reside.
+
 #### Category I. Care Destination Data
 * <a href="https://geohub.lacity.org/datasets/lacounty::community-services/about">Community Centers</a>: Locations of community services in LA County, requiring some cleaning and filtering based on what our team decides counts as a 'Community Center.'
 * Health Care Facilities, OB Service Centers
