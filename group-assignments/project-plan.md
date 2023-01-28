@@ -12,7 +12,7 @@ Los Angeles’ urban sprawl is a key factor in the lack of mobility for care wor
 ### Why This Matters
 Corners of service and transportation accessibility for informal care workers reflect a greater structural dilemma within urban planning in LA and beyond. Our collective understanding of mobility is dominated by the needs of formal laborers, mainly men. This patriarchal norm has resulted in the *immobility* of those for which our city systems were not initially designed for. It's important to study how immobility problems root themselves in our city's infrastructure and identify strategies that help us create a more equitable transportation landscape.
 
-![bogota-care-block](img/[picture.png](https://github.com/deshdog/up-221-mapping-careworker-mobility/blob/main/images/bogota-care-block.png))
+![bogota-care-block](images/bogota-care-block.png)
 
 ```diff
 Can someone figure out how to insert the image called bogota-care-block from 'images' folder here?
