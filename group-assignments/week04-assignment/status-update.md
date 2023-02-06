@@ -6,12 +6,12 @@ Elizabeth Greenfield:
 
 Maya Deshpande: Working on mapping racial demographic data this week.
 
-Sophie Frank: 
+Sophie Frank: Mapping City of LA Public Library locations.
 
 Adam Lipsey: 
 
 ### Status Update
-After reading through our feedback from the TA's on our initial project proposal, our group met outside of class to rethink the scope of our project. We originally set out to map a long list of variables (transit, food/grocery, child care, health care, etc.) across all census tracts in order to identify pre-existing 'city care blocks' in LA. Such blocks contain all the day-to-day essentials within a 15-20 minute walk and are especially helpful to inform care workers, who have been known to travel much differently within urban areas than formal laborers or non-care-takers. This project, while interesting, requires a much longer timeline and more resources to complete successfully. We have instead decided to choose one care destination (an LA city library) and work to understand how accessuble it is for care workers in the area.
+After reading through our feedback from the TA's on our initial project proposal, our group met outside of class to rethink the scope of our project. We originally set out to map a long list of variables (transit, food/grocery, child care, health care, etc.) across all census tracts in order to identify pre-existing 'city care blocks' in LA. Such blocks contain all the day-to-day essentials within a 15-20 minute walk and are especially helpful to inform care workers, who have been known to travel much differently within urban areas than formal laborers or non-care-takers. This project, while interesting, requires a much longer timeline and more resources to complete successfully. We have instead decided to choose one type of care destination (LA city libraries) and work to understand how accessible it is for care workers in the area.
 
 ### Data Update
 To accomodate for our new project direction and keep us on-track, we've split our datasets into two categories:
@@ -23,5 +23,6 @@ For our Week 04 Assignment, three of us tackled datasets within the Contextual D
 
 ### Concerns
 
+Now that we have narrowed the scope of our project, we have much greater confidence in our ability to create a solid output that addresses our research at the end of this quarter.
 
 
